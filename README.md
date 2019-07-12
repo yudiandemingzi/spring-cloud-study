@@ -27,7 +27,7 @@
 项目总体技术选型
 
 ```
-SpringBoot2.0.4 + Maven3.5.4 +spring-cloud（Finchley.RELEASE）+ Redis3.5.4 + lombok(插件)
+SpringBoot2.0.4 + Maven3.5.4 +spring-cloud（Finchley.RELEASE）+ mysql + Redis3.5.4 + lombok(插件)
 ```
 
 #### 2、项目整体结构
