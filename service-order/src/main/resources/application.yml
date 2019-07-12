@@ -14,7 +14,7 @@ spring:
     name: order-service
   redis:
     database: 0
-    host: 47.99.203.55
+    host: 127.0.0.1
     port: 6379
 
 
